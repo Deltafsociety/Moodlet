@@ -1,4 +1,4 @@
-Here’s a polished, fun, and terminal-friendly **README** for your MoodShell project in Markdown format:
+
 
 ````markdown
 # MoodShell 🐱💻
