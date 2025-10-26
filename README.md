@@ -1,6 +1,5 @@
 
 
-````markdown
 # MoodShell 🐱💻
 
 **MoodShell** is a quirky terminal-based mood tracker that keeps tabs on your daily feelings—right from the comfort of your command line. Track your moods, see trends, and reflect on your emotional patterns, all without leaving the terminal.  
